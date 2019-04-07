@@ -1,6 +1,9 @@
 # Go-learning-notes
 Some good resources that help to better understand golang.
 
+## Language Specification
+https://golang.org/ref/spec
+
 ## Effective Go
 https://golang.org/doc/effective_go.html
 
