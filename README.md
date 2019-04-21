@@ -13,3 +13,6 @@ Go Slices: usage and internals  https://blog.golang.org/go-slices-usage-and-inte
 
 ## Generics
 https://appliedgo.net/generics/
+
+## Pass by value or by pointer?
+http://goinbigdata.com/golang-pass-by-pointer-vs-pass-by-value/
