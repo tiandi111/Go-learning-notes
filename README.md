@@ -16,3 +16,6 @@ https://appliedgo.net/generics/
 
 ## Pass by value or by pointer?
 http://goinbigdata.com/golang-pass-by-pointer-vs-pass-by-value/
+
+## Concurrency
+Don't use shared memory! https://blog.golang.org/share-memory-by-communicating
