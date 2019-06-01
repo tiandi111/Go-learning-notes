@@ -19,6 +19,7 @@ http://goinbigdata.com/golang-pass-by-pointer-vs-pass-by-value/
 
 ## Concurrency
 Don't use shared memory! https://blog.golang.org/share-memory-by-communicating
+Go memory model. https://golang.google.cn/ref/mem
 
 ## Go web
 Chinese book about go web programming. https://www.kancloud.cn/kancloud/web-application-with-golang/44161
