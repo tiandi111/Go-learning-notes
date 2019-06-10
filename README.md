@@ -6,7 +6,7 @@ https://golang.org/ref/spec
 
 ## Effective Go
 https://golang.org/doc/effective_go.html
-Code review comments, a supplement to Effective go. https://github.com/golang/go/wiki/CodeReviewComments#variable-names
+https://github.com/golang/go/wiki/CodeReviewComments#variable-names Code review comments, a supplement to Effective go
 
 ## Data stucture
 ### Slice and Array
