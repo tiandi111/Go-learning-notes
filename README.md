@@ -24,3 +24,6 @@ Go memory model. https://golang.google.cn/ref/mem
 
 ## Go web
 Chinese book about go web programming. https://www.kancloud.cn/kancloud/web-application-with-golang/44161
+
+## Performance 
+Simple techniques to optimize Go programs. https://stephen.sh/posts/quick-go-performance-improvements
