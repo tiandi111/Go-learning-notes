@@ -27,3 +27,6 @@ Chinese book about go web programming. https://www.kancloud.cn/kancloud/web-appl
 
 ## Performance 
 Simple techniques to optimize Go programs. https://stephen.sh/posts/quick-go-performance-improvements
+
+## Profiling
+https://medium.com/@tjholowaychuk/profiling-golang-851db2d9ae24
