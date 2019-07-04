@@ -1,4 +1,14 @@
-Go Program CheckList
-
+#Go Program CheckList
 A personal program checklist. 
 
+## CRUD
+1. When create multiple records, handle the case where some records are inserted to storage but others are not due due to certain reasons.
+    Solution: 1. Make it a transaction; 2. Return how many records are inserted successfully. 
+2. When query records, 
+3. When delete a non-existed records, return an err "ErrNoRecord".
+
+## Pointer
+1. Always check nil before manipulating on pinters.
+
+## Log
+1. 
